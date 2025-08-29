@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HCTDesign"]
+	path = HCTDesign
+	url = https://github.com/cran/HCTDesign
 [submodule "gsMAMS"]
 	path = gsMAMS
 	url = https://github.com/tpatni719/gsmams
